@@ -1,0 +1,6 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "terminal.integrated.fontWeightBold": "bold",
+    "editor.fontWeight": "bold"
+}
